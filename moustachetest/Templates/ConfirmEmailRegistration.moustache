@@ -1,0 +1,3 @@
+{{> head}}
+<div><a href="{{ClientUrl}}/{{Path}}">Click here</a> to confirm your email address.</div>
+{{> foot}}

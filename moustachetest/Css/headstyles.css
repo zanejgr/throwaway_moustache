@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: 'DM Sans', 'Raleway', 'Verdana', 'Ariel', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    min-width: 100vw;
+    min-height: 100vh;
+    overflow: hidden auto;
+    padding-right: 0 !important;
+}
